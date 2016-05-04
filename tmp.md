@@ -4,5 +4,5 @@
 * another
 * here
 
-![X](live_photo16809862.jpg =100x100)
+![X](./live_photo16809862.jpg =100x100)
 
